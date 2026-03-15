@@ -7,7 +7,7 @@
 [![Tavily](https://img.shields.io/badge/Tavily-Search-4A90E2?style=flat)](https://tavily.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
-> **Submitted by:** Ganesh Sonawane &nbsp;|&nbsp; **Roll No:** 23B1541 &nbsp;|&nbsp; **IIT Bombay**  
+> **Submitted by:** Ganesh Sonawane &nbsp;|&nbsp; **Roll No:** 23B1514 &nbsp;|&nbsp; **IIT Bombay**  
 > **Challenge:** Option A — Multi-Agent Research Assistant (Agentic AI)
 
 ---
@@ -117,8 +117,10 @@ python demo_edge_case.py
 ├── tools/
 │   └── search.py            # Tavily search wrapper with deduplication
 │
-└── workflow/
-    └── graph.py             # LangGraph StateGraph definition and routing logic
+├──  workflow/
+│   └── graph.py             # LangGraph StateGraph definition and routing logic
+│
+└── Project final report.pdf  # final report explaining the architecture, key decisions evaluation results and proposed Improvements
 ```
 
 ---
