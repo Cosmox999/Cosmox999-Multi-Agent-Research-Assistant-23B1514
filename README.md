@@ -211,11 +211,6 @@ python-dotenv>=1.0.0
 - **No persistent memory** — Each run starts fresh; a vector store (e.g. ChromaDB) could enable incremental research across sessions
 - **Hallucination risk** — Statistical claims generated without explicit citation grounding; future fix: enforce citation-required output schema
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
